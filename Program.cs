@@ -10,6 +10,7 @@ namespace ConsoleApp1_ВОТ
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет разработчик");
         }
         public void Method()
         {
@@ -19,7 +20,10 @@ namespace ConsoleApp1_ВОТ
         {
             Console.WriteLine("Что-то новенькое!");
         }
-
+        public void NewMethod()
+        {
+            Console.WriteLine("Это новый метод");
+        }
 
 
     }
