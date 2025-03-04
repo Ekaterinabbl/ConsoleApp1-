@@ -13,7 +13,7 @@ namespace ConsoleApp1_ВОТ
         }
         public void Method()
         {
-            Console.WriteLine("Ноасый метоод!");
+            Console.WriteLine("Новыый метод!");
         }
     }
 }
